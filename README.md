@@ -46,7 +46,7 @@
   
 
   ## Tests
-  Our application is currently linked to https://travis-ci.com/, to request the build logs please message!
+
   
   ## Questions
   [Link to Creator Github](https://github.com/sabinehutter)
