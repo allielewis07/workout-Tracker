@@ -49,11 +49,5 @@
 
   
   ## Questions
-  [Link to Creator Github](https://github.com/sabinehutter)
-  [Link to Creator Github](https://github.com/allielewis07)
-  [Link to Creator Github](https://github.com/pault929)
-  [Link to Creator Github](https://github.com/pankuanting102)
-  [Link to Creator Github](https://github.com/blalbeharry)
-
   Please forward all questions about the project to [allielewis07@gmail.com](allielewis@gmail.com)
   
